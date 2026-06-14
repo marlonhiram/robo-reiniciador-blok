@@ -1,0 +1,10 @@
+# maquinas.example.txt — Modelo do arquivo de lista de máquinas
+#
+# Renomeie este arquivo para "maquinas.txt" e substitua os exemplos
+# abaixo pelos identificadores reais das suas máquinas (um por linha).
+# Linhas em branco e comentários (iniciados com #) são ignorados.
+
+MQ01
+MQ02
+MQ03
+MQ04

@@ -1,0 +1,6 @@
+# Dependências do projeto — instale com: pip install -r requirements.txt
+
+customtkinter==5.2.2   # Interface gráfica moderna para Tkinter
+pyautogui==0.9.54      # Automação de mouse, teclado e reconhecimento de tela
+keyboard==0.13.5       # Captura de teclas globais (atalho F10)
+pyinstaller==6.3.0     # (opcional) Empacotamento do projeto como executável .exe
